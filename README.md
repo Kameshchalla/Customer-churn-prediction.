@@ -53,6 +53,9 @@ Visualizations were used to uncover insights such as:
 
 ---
 
+![correlation Heat map](assets/heatMap.png)
+
+
 ## 🤖 Model Training
 
 Multiple models were tested:
