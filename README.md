@@ -53,7 +53,7 @@ Visualizations were used to uncover insights such as:
 
 ---
 
-![correlation Heat map](assets/heatMap.png)
+![correlation Heat map](https://raw.githubusercontent.com/Kameshchalla/Customer-churn-prediction./main/Customer%20Churn%20Prediction/assets/heatMap.PNG)
 
 
 ## 🤖 Model Training
